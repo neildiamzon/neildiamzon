@@ -20,7 +20,7 @@ My goal is to become a Software Architect, designing scalable, efficient, and hi
 I'm diving deeper into the .NET ecosystem, working on ASP.NET Core applications and expanding my expertise in backend development.
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/neilaronndiamzon]
+- **LinkedIn:** [https://linkedin.com/in/neilaronndiamzon]
 
 Thanks for stopping by! 🚀
 
@@ -54,3 +54,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
