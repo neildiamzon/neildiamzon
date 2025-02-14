@@ -16,8 +16,11 @@ I'm a software engineer with extensive experience in backend development, curren
 
 My goal is to become a Software Architect, designing scalable, efficient, and high-performance systems.
 
-### 📌 Current Focus
-I'm diving deeper into the .NET ecosystem, working on ASP.NET Core applications and expanding my expertise in backend development.
+### 📌 Current Focuses
+- I'm diving deeper into the .NET ecosystem, working on ASP.NET Core applications and expanding my expertise in backend development.
+- Learning and practicing frontend framework, React
+- Studying how to implement OAuth 2.0, OpenID, and Keycloak
+
 
 ### 📫 Connect with Me
 - **LinkedIn:** [https://linkedin.com/in/neilaronndiamzon]
