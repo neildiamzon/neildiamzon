@@ -9,7 +9,6 @@ I'm a software engineer with extensive experience in backend development, curren
 - **C# (.NET, ASP.NET Core)**
 - **JavaScript (React, Node.js)**
 - **SQL (PostgreSQL, MySQL, SQL Server)**
-- **Python (for scripting and automation)**
 - **Cloud (AWS, Azure)**
 
 ### 🎯 Career Goal
