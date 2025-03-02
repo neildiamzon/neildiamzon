@@ -20,6 +20,13 @@ My goal is to become a Software Architect, designing scalable, efficient, and hi
 - Learning and practicing frontend framework, React
 - Studying how to implement OAuth 2.0, OpenID, and Keycloak
 
+### To Do
+- [x] ASP.NET Core Identity Basics (Authentication, RBAC, Registration)
+- [ ] Identity with OAuth 2.0 and OpenIDConnect
+- [ ] Keycloak authentication
+- [x] ASP.NET Core Entity Framework (DbSet CRUD operations)
+
+
 
 ### 📫 Connect with Me
 - **LinkedIn:** [https://linkedin.com/in/neilaronndiamzon]
