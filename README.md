@@ -22,7 +22,7 @@ My goal is to become a Software Architect, designing scalable, efficient, and hi
 
 ### To Do
 - [x] ASP.NET Core Identity Basics (Authentication, RBAC, Registration)
-- [ ] Identity with OAuth 2.0 and OpenIDConnect
+- [x] Identity with OAuth 2.0 - PKCE
 - [ ] Keycloak authentication
 - [x] ASP.NET Core Entity Framework (DbSet CRUD operations)
 
