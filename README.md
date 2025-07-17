@@ -6,6 +6,7 @@ I'm a software engineer with extensive experience in backend development, curren
 
 ### 🛠️ Tech Stack & Languages Used
 - **Java (Spring Boot, JPA, Lombok)**
+- **Python (Flask, Django)**
 - **C# (.NET, ASP.NET Core)**
 - **JavaScript (React, Node.js)**
 - **SQL (PostgreSQL, MySQL, SQL Server)**
